@@ -1,2 +1,0 @@
-user: tusharsrivastava@gmail.com
-pass: 12345
